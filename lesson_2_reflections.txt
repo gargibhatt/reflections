@@ -1,0 +1,11 @@
+Chapter-2 Reflections
+
+What happens when you initialize a repository? Why do you need to do it?
+
+----It creates a git repository. It creates .git folder to store the metra data and change history information.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+----working ditectory have all your files and you make the git epository on it by using the Git init command. 
+    staging area is a temporary work area where you put the files if younwant ot make any changes to them . 
+
+    
