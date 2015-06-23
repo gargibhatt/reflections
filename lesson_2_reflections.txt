@@ -1,4 +1,4 @@
-Chapter-2 Reflections
+Chapter-2 Reflections 
 
 What happens when you initialize a repository? Why do you need to do it?
 
